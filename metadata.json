@@ -1,0 +1,6 @@
+{
+  "name": "Sara AI",
+  "description": "Premium luxury AMOLED AI Assistant with text, voice, live mode, long-term memory, custom personalities, and vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

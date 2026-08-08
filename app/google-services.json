@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555536104722",
+    "project_id": "sara-53e42",
+    "storage_bucket": "sara-53e42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555536104722:android:2556877d06db987ad087cb",
+        "android_client_info": {
+          "package_name": "com.aistudio.saraai.qvxzkm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555536104722-lgfbksjo541qbpebhn9cdlsb77ebd47r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvbWsUoqYapogXKpukTUDu7lVOWB7qfJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555536104722-lgfbksjo541qbpebhn9cdlsb77ebd47r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

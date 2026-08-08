@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/* Fix: ensure the app always fills the real, current viewport height on
+   Android WebView across every device size/DPI, and never gets stuck at an
+   initial (often too-tall or too-short) 100vh reading. */
+html, body, #root {
+  height: 100%;
+  min-height: 100dvh;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+

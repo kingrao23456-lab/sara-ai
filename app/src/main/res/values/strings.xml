@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sara AI</string>
+    <string name="zoya_accessibility_description">Lets Zoya tap buttons, scroll, and read the screen on your behalf when you ask her to control the phone during a voice call. You can turn this off anytime in Settings \u2192 Accessibility.</string>
+</resources>
+
